@@ -1,0 +1,12 @@
+body{
+    background-image:
+    url('cat.png');
+    background-repeat:no-repeat;
+    background-attachment:scroll;
+    background-size:100%;
+    position: relative;
+    
+    
+    
+}
+
