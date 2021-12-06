@@ -9,4 +9,14 @@ body{
     
     
 }
+p{
+    text-align: center;
+    vertical-align: text-bottom;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translateY(-50%);
 
+}
